@@ -1,14 +1,15 @@
-title: Alfredo Canziani
+title: Alex Răzvan Ispas
 plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: twitter, user_url: "https://twitter.com/alfcnz" }
-    - { platform: github,  user_url: "https://github.com/Atcold" }
-    - { platform: youtube,  user_url: "https://www.youtube.com/channel/UCupQLyNchb9-2Z5lmUOIijw" }
-google_analytics: G-NGQWNXRS74
+    - { platform: twitter, user_url: "https://twitter.com/Razvanip" }
+    - { platform: github,  user_url: "https://github.com/Razvanip13" }
+
+
+#google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:
     math_engine: katex
