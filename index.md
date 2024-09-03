@@ -2,10 +2,7 @@
 layout: page
 ---
 
-<span style="display:block; margin-top:-30px;">
-![My face](https://avatars.githubusercontent.com/u/2119355?v=4)
-</span>
-
+<img width="554" alt="My face" src="https://github.com/user-attachments/assets/98540e97-2c59-41ae-9ba4-8c04d9b8e9a5">
 
 # About me
 
