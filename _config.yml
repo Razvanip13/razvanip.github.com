@@ -7,7 +7,7 @@ minima:
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/Razvanip" }
     - { platform: github,  user_url: "https://github.com/Razvanip13" }
-    - { platform: spotify,  user_url: "https://open.spotify.com/user/31dvv62gkvurpzbsdksv65ofk4yy?si=Es22oaGjQMeQR7ghAEGHzA" }
+    # - { platform: spotify,  user_url: "https://open.spotify.com/user/31dvv62gkvurpzbsdksv65ofk4yy?si=Es22oaGjQMeQR7ghAEGHzA" }
     
 
 
